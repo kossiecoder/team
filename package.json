@@ -11,7 +11,7 @@
     },
     "devDependencies": {
         "@mdi/font": "^4.2.95",
-        "axios": "^0.19",
+        "axios": "^0.21",
         "babel-eslint": "^8.2.6",
         "cross-env": "^5.1",
         "eslint": "^4.19.1",
